@@ -1,4 +1,4 @@
-job('Prueba Docker DSL') {
+job('Prueba Docker DSL 15PTS') {
     description('Actividad de 15 puntos')
     scm {
       git('https://github.com/Ramonst18/nodejsapp.git', 'master') { node ->
